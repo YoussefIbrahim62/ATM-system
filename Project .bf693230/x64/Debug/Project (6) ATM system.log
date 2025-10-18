@@ -1,0 +1,5 @@
+﻿  Project (6) ATM system.cpp
+D:\My Projects\Project (6) ATM system\MySecondaryFunctionslib.h(171,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20(6)%20ATM%20system.cpp')
+  
+  Project (6) ATM system.vcxproj -> D:\My Projects\Project (6) ATM system\x64\Debug\Project (6) ATM system.exe

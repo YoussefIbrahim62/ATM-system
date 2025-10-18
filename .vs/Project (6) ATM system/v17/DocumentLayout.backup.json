@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Project (6) ATM system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF693230-EA9A-4680-AB1E-BECB5D0C7D6E}|Project (6) ATM system.vcxproj|D:\\My Projects\\Project (6) ATM system\\Project (6) ATM system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF693230-EA9A-4680-AB1E-BECB5D0C7D6E}|Project (6) ATM system.vcxproj|solutionrelative:Project (6) ATM system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF693230-EA9A-4680-AB1E-BECB5D0C7D6E}|Project (6) ATM system.vcxproj|D:\\My Projects\\Project (6) ATM system\\MySecondaryFunctionslib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF693230-EA9A-4680-AB1E-BECB5D0C7D6E}|Project (6) ATM system.vcxproj|solutionrelative:MySecondaryFunctionslib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySecondaryFunctionslib.h",
+              "DocumentMoniker": "D:\\My Projects\\Project (6) ATM system\\MySecondaryFunctionslib.h",
+              "RelativeDocumentMoniker": "MySecondaryFunctionslib.h",
+              "ToolTip": "D:\\My Projects\\Project (6) ATM system\\MySecondaryFunctionslib.h",
+              "RelativeToolTip": "MySecondaryFunctionslib.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-16T18:36:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project (6) ATM system.cpp",
+              "DocumentMoniker": "D:\\My Projects\\Project (6) ATM system\\Project (6) ATM system.cpp",
+              "RelativeDocumentMoniker": "Project (6) ATM system.cpp",
+              "ToolTip": "D:\\My Projects\\Project (6) ATM system\\Project (6) ATM system.cpp",
+              "RelativeToolTip": "Project (6) ATM system.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T18:30:08.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
