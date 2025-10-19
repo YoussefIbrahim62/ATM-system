@@ -189,7 +189,7 @@ namespace AllLibs
 	{
 		char answer;
 
-		cout << message << " : ";
+		cout << message << "  ";
 		cin >> answer;
 
 		while (cin.fail() || (tolower(answer) != 'y' && tolower(answer) != 'n'))
@@ -211,6 +211,12 @@ namespace AllLibs
 	bool AskUserToGetBackToMainMenu()
 	{
 		return ReadAnswerYesOrNO("\nDo you want to get back to main menu [Y] [N] ? ");
+	}
+
+
+	bool IsNumberPositive(int number)
+	{
+		return (number > 0);
 	}
 
 }
